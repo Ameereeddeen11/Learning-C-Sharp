@@ -2,6 +2,8 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Quiz-Game", "Quiz-Game\Quiz-Game.csproj", "{66097538-757D-4259-873A-4345D83331D5}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rock-Paper-Scissors", "Rock-Paper-Scissors\Rock-Paper-Scissors.csproj", "{228A6A1E-B657-4F27-B971-482C2BA5E907}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -12,5 +14,9 @@ Global
 		{66097538-757D-4259-873A-4345D83331D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{66097538-757D-4259-873A-4345D83331D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{66097538-757D-4259-873A-4345D83331D5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{228A6A1E-B657-4F27-B971-482C2BA5E907}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{228A6A1E-B657-4F27-B971-482C2BA5E907}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{228A6A1E-B657-4F27-B971-482C2BA5E907}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{228A6A1E-B657-4F27-B971-482C2BA5E907}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
