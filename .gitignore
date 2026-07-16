@@ -1,0 +1,39 @@
+## --- .NET / C# Core ---
+# Zkompilovaný kód a buildy
+*bin/
+*obj/
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+bld/
+
+# NuGet balíčky a uživatelské cache
+*.nuget.dgspec.json
+project.fragment.lock.json
+project.assets.json
+packages/
+
+## --- JetBrains Rider ---
+# Lokální nastavení IDE a konfigurace projektu
+.idea/
+*.user
+*.userosscache
+*.sln.docstate
+
+## --- Vývojová tajemství a konfigurace ---
+# Uživatelské secret soubory (obsahují API klíče, hesla)
+secrets.json
+.microsoft.visualstudio.security.usersecrets.json
+
+# Lokální proměnné prostředí
+.env
+.env.*
+!.env.example
+
+# Lokální konfigurace, která se může lišit vývojář od vývojáře
+# appsettings.Development.json # Odkomentujte, pokud v něm máte citlivá lokální data
+
+## --- OS / Systémové soubory ---
+*.DS_Store
+Thumbs.db
